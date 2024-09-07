@@ -4,7 +4,7 @@
 
 #### Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/full-stack-laravel10-react-mysql-y-bootstrap.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-zustand-laravel.png)
 
 #### Nota
 
